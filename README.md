@@ -1,7 +1,7 @@
-# Echoserver
-Echo server and client using python socket
+# Exp: 01: Simple echo server and client using Python socket
+#### Name: SHYAM S
+#### Reg.No: 212223240156
 # AIM:
-
 To develop a simple webserver to serve html programming pages.
 
 ## DESIGN STEPS:
